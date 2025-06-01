@@ -3,5 +3,6 @@
     <url>
         <loc>https://romanizer.vercel.app/</loc>
         <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
     </url>
 </urlset>

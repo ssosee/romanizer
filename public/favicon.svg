@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+    <rect width="128" height="128" rx="40" fill="#f89358"/>
+    <text x="30%" y="50%" text-anchor="middle" font-size="65" font-family="Arial, sans-serif" fill="black" font-weight="bold">
+        R
+    </text>
+    <text x="48%" y="70%" text-anchor="middle" font-size="60" font-family="Arial, sans-serif" fill="gray" font-weight="bold">
+        *
+    </text>
+    <text x="68%" y="75%" text-anchor="middle" font-size="65" font-family="Arial, sans-serif" fill="white" font-weight="bold">
+        K
+    </text>
+</svg>

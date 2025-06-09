@@ -39,7 +39,7 @@ function App() {
             <div className="container">
                 <div className="card">
                     <div className="header">
-                        <h1>한글 발음기호 생성기</h1>
+                        <h1>🇰🇷 한글 발음기호 생성기</h1>
                         <p>Korean to Romanization Generator</p>
                     </div>
 

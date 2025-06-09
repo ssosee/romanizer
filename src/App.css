@@ -35,19 +35,19 @@ body {
 .header {
     text-align: center;
     padding: 32px 24px 24px;
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    background: linear-gradient(135deg, #f093fb 11%, #f5576c 89%);
     color: white;
 }
 
 .header h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 8px;
 }
 
 .header p {
     opacity: 0.9;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 .content {
@@ -63,7 +63,7 @@ body {
 .text-input {
     flex: 1;
     padding: 12px 16px;
-    font-size: 16px;
+    font-size: 1.2rem;
     border: 2px solid #e5e7eb;
     border-radius: 8px;
     outline: none;
@@ -107,14 +107,14 @@ body {
 }
 
 .result-label {
-    color: #64748b;
-    font-size: 18px;
+    color: #64747b;
+    font-size: 1.2rem;
     margin-right: 8px;
 }
 
 .result-text {
     color: #1e40af;
-    font-size: 20px;
+    font-size: 1.3rem;
     font-weight: bold;
     font-family: "Courier New", monospace;
 }
@@ -122,7 +122,7 @@ body {
 .copy-btn {
     margin-left: 12px;
     padding: 8px 16px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     color: #6366f1;
     background: #f8fafc;
